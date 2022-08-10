@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978462821803",
+    "firebase_url": "https://feed-india-e062f-default-rtdb.firebaseio.com",
+    "project_id": "feed-india-e062f",
+    "storage_bucket": "feed-india-e062f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978462821803:android:806b9817438b864ed696ee",
+        "android_client_info": {
+          "package_name": "com.example.aahaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978462821803-p6jk94nsenq0sergahekblg2ihegmr0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRx3nkgkvLaSuSOQ4nEy3zKYwWwt-UYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978462821803-p6jk94nsenq0sergahekblg2ihegmr0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
